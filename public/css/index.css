@@ -773,6 +773,30 @@ color:white;
   color:white;
   font-size: 1rem;
 }
+#film_actor_button1{
+  width: 25px;
+  height: 25px;
+  flex-shrink: 0;
+  position: absolute;
+  background-color: #A61212;
+  border:none;
+  left:300px;
+  top:35px;
+  color:white;
+  font-size: 1rem;
+}
+#film_actor_button2{
+  width: 25px;
+  height: 25px;
+  flex-shrink: 0;
+  position: absolute;
+  background-color: #A61212;
+  border:none;
+  left:300px;
+  top:35px;
+  color:white;
+  font-size: 1rem;
+}
 
 .film_actor_line{
 color: #FFF;
